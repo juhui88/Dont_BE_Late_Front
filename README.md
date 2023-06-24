@@ -5,7 +5,6 @@
 #### Project nickname : 늦지마요
 #### Team : Euphoria
 
-#### GIT LAB URL : [GIT LAB](https://lab.hanium.or.kr/21_PF020/21_pf020)
 -----------------------
 ## ▶︎Developer
 
@@ -24,7 +23,8 @@
 늦지마요는 학교에서 제공하는 셔틀을 이용하는 학생들에게 실시간으로 각 노선에 특이 사항이 생기거나 건의사항과 문의사항이 생기게 되면, 실시간으로 해결할 수 있는 환경을 제공해준다.
 시중에서는 에브리타임과 같은 대학교내 커뮤니티가 있으나, 이러한 주제있어 보다 사용자 입장에서의 기능이 부족하며, 다수의 학생들이 이용하기 어렵다는 점이있다.
 
-## ▶︎Demer video
+## ▶︎Demer video[2023-06-24 11-14-22.zip](https://github.com/juhui88/Dont_Late_Front/files/11854238/2023-06-24.11-14-22.zip)
+
 
 ## How to run the front end
 ✪리액트를 사용하여 구현하였고 여러 모듈들을 사용했다. 
