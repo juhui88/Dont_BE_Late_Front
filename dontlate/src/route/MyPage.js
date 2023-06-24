@@ -73,7 +73,7 @@ const MyPage = () => {
           </div>
         </div>
         <div className="space-y-20">
-          <Item>
+          {/* <Item>
             <ItemTop>
               <WithHeart>
                 <svg
@@ -157,7 +157,7 @@ const MyPage = () => {
                 </PlayWrap>
               ))}
             </ItemBottom>
-          </Item>
+          </Item> */}
         </div>
       </div>
     </Layout>
