@@ -78,14 +78,14 @@ const Profile = () => {
           <Span>닉네임</Span>
           <Input
             {...register("nickName", {
-              value: userData.name,
+              value: userData?.name,
             })}
             onChange={handleInputChange}
           />
           <Span>전화번호</Span>
           <Input
             {...register("phoneNum", {
-              value: userData.phoneNumber,
+              value: userData?.phoneNumber,
               minLength: {
                 value: 11,
                 message: "휴대폰번호 11자를 입력해주세요",
