@@ -1,4 +1,4 @@
-# Dont_Late_Front
+# Dont_BE_Late_Front
 
 # 2023-HUFS SUMMER_HACKATHON
 # 통학 셔틀에 대한 불편함을 최소화 주는 웹 서비스
